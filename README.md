@@ -17,5 +17,8 @@ This repository contains practice programs and tutorial implementations for lear
 ### OpenMP
 ```bash
 g++ -fopenmp file.cpp -o program
+
+### MPI
+```bash
 mpic++ file.cpp -o program
 mpirun -np 4 ./program
