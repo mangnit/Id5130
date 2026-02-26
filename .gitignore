@@ -1,0 +1,12 @@
+# executables
+a.out
+*.out
+*.exe
+
+# no-extension binaries
+op
+q*
+t*
+
+# vscode settings
+.vscode/
